@@ -1,4 +1,4 @@
-# Driver Drowsiness Detection App (Android Client)
+# Nhận diện tài xế ngủ gục (Android Client)
 
 ## Giới thiệu
 Đây là ứng dụng Android đóng vai trò **client (frontend)** trong hệ thống phát hiện tài xế ngủ gật.
