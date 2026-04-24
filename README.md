@@ -56,5 +56,5 @@ git clone https://github.com/khanhan0603/nhan-dien-tai-xe-ngu-guc-FE.git
 ---
 
 ## Backend
-Backend được phát triển ở repository riêng (https://github.com/khanhan0603/nhan-dien-tai-xe-ngu-guc-E.git).
-Ứng dụng sử dụng API để gửi dữ liệu và nhận phản hồi từ hệ thống.
+- Backend được phát triển ở repository riêng (https://github.com/khanhan0603/nhan-dien-tai-xe-ngu-guc-BE.git).
+- Ứng dụng sử dụng API để gửi dữ liệu và nhận phản hồi từ hệ thống.
